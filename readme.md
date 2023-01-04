@@ -16,7 +16,7 @@ edit your connection string (in app.js) to match your db name. ie. replace "jord
 run the server:
 
 ```bash
-node index.js
+node app.js
 ```
 
 ## usage
